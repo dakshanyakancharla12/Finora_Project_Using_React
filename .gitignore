@@ -1,0 +1,29 @@
+# Node.js and React frontend
+**/node_modules/
+**/dist/
+**/.vite/
+
+# Java and Maven backend
+**/target/
+*.class
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE and editor files
+.idea/
+.vscode/
+*.iml
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local database backups
+*.sql
+*.dump
